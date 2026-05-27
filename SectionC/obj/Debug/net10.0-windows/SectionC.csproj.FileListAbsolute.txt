@@ -1,0 +1,16 @@
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.Form1.resources
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.csproj.GenerateResource.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.AssemblyInfoInputs.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.AssemblyInfo.cs
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.csproj.CoreCompileInputs.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\bin\Debug\net10.0-windows\SectionC.exe
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\bin\Debug\net10.0-windows\SectionC.deps.json
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\bin\Debug\net10.0-windows\SectionC.runtimeconfig.json
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\bin\Debug\net10.0-windows\SectionC.dll
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\bin\Debug\net10.0-windows\SectionC.pdb
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.dll
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\refint\SectionC.dll
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.pdb
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\SectionC.genruntimeconfig.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionC\obj\Debug\net10.0-windows\ref\SectionC.dll
