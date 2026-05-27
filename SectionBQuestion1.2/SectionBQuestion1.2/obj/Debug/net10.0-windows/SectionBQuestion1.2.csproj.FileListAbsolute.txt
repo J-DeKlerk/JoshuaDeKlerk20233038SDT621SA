@@ -1,0 +1,16 @@
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.exe
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.deps.json
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.runtimeconfig.json
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.dll
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.pdb
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1._2.Form1.resources
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.csproj.GenerateResource.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.AssemblyInfoInputs.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.AssemblyInfo.cs
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.csproj.CoreCompileInputs.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.dll
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\refint\SectionBQuestion1.2.dll
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.pdb
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.genruntimeconfig.cache
+C:\Users\jdkle\OneDrive - Stellenbosch University\Desktop\JoshuaDeKlerk2023038SDT621SA-source code\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\ref\SectionBQuestion1.2.dll
