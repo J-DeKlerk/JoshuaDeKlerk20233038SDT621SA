@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Welcome to the structure of a C# prjects demo");
+Console.Write("Enter your name: ");
+string name = Console.ReadLine();
+Console.WriteLine($"Hello, {name}!\n");
+Console.WriteLine("Program Stucture Demonstrated:");
+Console.WriteLine("1. Using System : Imporatnt funtionality");
+Console.WriteLine("2. Namespace : organizes code ");
+Console.WriteLine("3. Class Program : Container for Code ");
+Console.WriteLine("4. Main() : Entry Point Of program ");
+Console.WriteLine("5. Commetns : Explain Login and Documentation");
